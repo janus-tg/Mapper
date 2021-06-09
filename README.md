@@ -22,23 +22,26 @@ Here, the map has been changed to show New York, USA. The area zoomed in is in B
 ##### 2. Search box on the top right corner:
 City names can be entered and the map closes the current map and loads the new city. 
 
-<img src = "1.jpg" width = "65%">
+<img src = "5.jpg" width = "65%">
+Here, we can see that the location has been changed to New York, USA. Then, on zooming in and clicking the "Show Feature Names" button, we can see the names of the iconic streets and buildings being displayed. 
+
 
 ##### 3. Buttons for zoom and direction:
 These can be used to zoom in the map and move around it. 
 
-<img src = "1.jpg" width = "65%">
+<img src = "4.jpg" width = "65%">
+We have zoomed in and panned to a random location in Toronto. Then, we highlight 2 intersections and chart the shortest path between these 2 locations. Lastly, after clicking the "Get Directions" button, we can see the text directions and estimated time of travel for our trip. 
 
 ##### 4. Buttons for feature, street and points of interests (POI):
-Clicking on these buttons display the feature (geographical features like name of park, forest, water body etc), street/road names, and the names of famous POIs (like restaurants, banks, movie theatres, malls, monuments etc) respectively. 
+Clicking on these buttons display the feature (geographical features like name of park, forest, water body, monuments and famous buildings etc), street/road names, and the names of famous POIs (like restaurants, banks, movie theatres, malls etc) respectively. 
 
-<img src = "1.jpg" width = "65%">
+<img src = "2.jpg" width = "65%">
+Here, we have zoomed in the map. The small flags are all points of interests and their name can be displayed by clicking on the button. Here, the street names button has been clicked and we can see their names on the map. 
 
 ##### 5. Button for highlighting second intersection:
 By clicking on this button, the user could select 2 locations on the map and then click on the "Find Path" button to visualize the shortest path between the 2 marked locations. On clicking the "Get Directions" button, the user can get text directions. 
 
 <img src = "3.jpg" width = "65%">
-
 This image shows how the user can select 2 intersections and the shortest path between the 2 intersections is visualized on the map
 
 
