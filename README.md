@@ -36,7 +36,9 @@ Clicking on these buttons display the feature (geographical features like name o
 ##### 5. Button for highlighting second intersection:
 By clicking on this button, the user could select 2 locations on the map and then click on the "Find Path" button to visualize the shortest path between the 2 marked locations. On clicking the "Get Directions" button, the user can get text directions. 
 
-<img src = "1.jpg" width = "65%">
+<img src = "2.jpg" width = "65%">
+
+This image shows how the user can select 2 intersections and the shortest path between the 2 intersections is visualized on the map
 
 
 
