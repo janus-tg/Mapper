@@ -17,4 +17,7 @@ City names can be entered and the map closes the current map and loads the new c
 ##### 3. Buttons for zoom and direction:
 These can be used to zoom in the map and move around it. 
 
-##### 4. 
+##### 4. Buttons for feature, street and points of interests (POI):
+Clicking on these buttons display the feature (geographical features like name of park, forest, water body etc), street/road names, and the names of famous POIs (like restaurants, banks, movie theatres, malls, monuments etc) respectively. 
+
+
