@@ -4,6 +4,8 @@ This is C++ program that works as a navigational GIS with a fully working GUI. I
 
 It utilizes data obtained from the OpenStreetMap project. 
 
+<img src = "1.jpg" width = "75%">
+
 ## Note
 
 This program was developed as part of a course curriculum and that's why the source code hasn't been posted. Please message me if you want to know more or discuss how this application was made. 
@@ -25,6 +27,5 @@ Clicking on these buttons display the feature (geographical features like name o
 ##### 5. Button for highlighting second intersection:
 By clicking on this button, the user could select 2 locations on the map and then click on the "Find Path" button to visualize the shortest path between the 2 marked locations. On clicking the "Get Directions" button, the user can get text directions. 
 
-## Images
 
 
