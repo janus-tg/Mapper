@@ -11,6 +11,12 @@ This is the image of the map opening and loading Toronto by default.
 
 This program was developed as part of a course curriculum and that's why the source code hasn't been posted. Please message me if you want to know more or discuss how this application was made. 
 
+## Notable algorithms used:
+
+1. A* algorithm.
+2. Nearest neighbour algorithm for solving the travelling salesman problem.
+3. Single source multi-destination Dijkstra's algorithm.
+
 ## Special features
 
 ##### 1. Search box on the top left corner: 
@@ -43,6 +49,4 @@ By clicking on this button, the user could select 2 locations on the map and the
 
 <img src = "3.jpg" width = "65%">
 This image shows how the user can select 2 intersections and the shortest path between the 2 intersections is visualized on the map
-
-
 
