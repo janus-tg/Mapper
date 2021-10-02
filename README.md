@@ -5,6 +5,7 @@ This is C++ program that works as a navigational GIS with a fully working GUI. I
 It utilizes data obtained from the OpenStreetMap project. 
 
 <img src = "1.jpg" width = "75%">
+
 This is the image of the map opening and loading Toronto by default. 
 
 ## Note
